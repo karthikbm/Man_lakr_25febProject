@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/karthikbm
   gitUsername: karthikbm
   gitBranch: main
+- name: SalesforceSoapTest1015
+  gitServerName: Karthik
+  gitUrl: https://github.com/lakshmidevi277
+  gitUsername: karthikbm
+  gitBranch: main
