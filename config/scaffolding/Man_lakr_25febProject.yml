@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Man_lakr_25febProject
+  gitServerName: Karthik
+  gitUrl: https://github.com/karthikbm
+  gitUsername: karthikbm
+  gitBranch: main
